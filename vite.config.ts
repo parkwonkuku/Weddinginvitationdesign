@@ -10,7 +10,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/',
+  base: '/Weddinginvitationdesign/',
   resolve: {
     alias: {
       // Alias @ to the src directory
